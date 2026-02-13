@@ -1,4 +1,4 @@
-<img src="/img/banner_readme.png" width="100">
+<img src="/img/banner_readme.png">
 
 # BridgeIT
 
