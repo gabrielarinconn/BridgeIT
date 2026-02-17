@@ -1,12 +1,12 @@
-<img src="/img/banner_sclapp.png">
+<img src="/img/Banner_Sclapp.png">
 
-# BridgeIT
+# Sclapp
 
 > **"Smart data for real opportunities"**
 
 ## 📝 Project Description
 
-**BridgeIT** is an interactive web platform designed to solve the "job hunting gap" faced by Riwi coders. This tool focuses on reducing the stagnation of students in their job search by providing an automated matching system between their technical stack and real-market vacancies.
+**Sclapp** is an interactive web platform designed to solve the "job hunting gap" faced by Riwi coders. This tool focuses on reducing the stagnation of students in their job search by providing an automated matching system between their technical stack and real-market vacancies.
 
 Built as a **Multi-Page Application (MPA)** using pure vanilla technologies, it features a visual tracking pipeline (Kanban board) and a personalized job discovery feed to streamline the transition from training to professional employment.
 
