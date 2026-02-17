@@ -1,8 +1,8 @@
-<img src="/img/banner_readme.png">
+<img src="/img/banner_sclapp.png">
 
 # BridgeIT
 
-> **"Bridging the gap between code and career"**
+> **"Smart data for real opportunities"**
 
 ## 📝 Project Description
 
